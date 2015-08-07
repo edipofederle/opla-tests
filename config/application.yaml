@@ -1,0 +1,6 @@
+--- !DirTarget
+pathToTemplateModelsDirectory: filesTemplates/
+directoryToSaveModels: manipulation/
+directoryToExportModels: /tmp/output/
+pathToProfile: smarty.profile.uml
+pathToProfileConcern: concerns.profile.uml
